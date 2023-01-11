@@ -8,7 +8,7 @@ const data = {
     bio: `I an am ambitious, passionate and self-motivated Engineer, experienced in designing, implementing, integrating, testing and supporting impactful applications developed in diverse, collaborative environments.
         I am proficient in the latest front-end technologies, including HTML, CSS, and JavaScript, and have a strong understanding of responsive design principles. I also have experience working with popular front-end libraries and frameworks such as React, Redux, and Bootstrap.
         In addition to my technical skills, I am a strong team player and have excellent communication skills. I am comfortable working in a fast-paced, agile environment and am always looking for ways to improve my skills and stay up-to-date on the latest industry trends.`,
-    contactmessage: "You can contact me for development of FrontEnd projects",
+    contactmessage: "You can contact me for development of Front End projects",
     email: "gideonlexy@gmail.com",
     phone: "254727585569 | 254708583933",
     address: {
